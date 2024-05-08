@@ -1,1 +1,2 @@
 # SalaryCalculator
+Salary Calculator is a Java program that prompts the user to input their hourly rate and hours worked. These values are then passed as arguments to the 'calculateSalary' method which calculates the total salary.
